@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.name        = "dianxin"
   s.version     = Dianxin::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Scott Ballantyne"]
-  s.email       = ["ussballantyne@gmail.com"]
+  s.authors     = ["Scott Ballantyne", "Zhang Zheng"]
+  s.email       = ["ussballantyne@gmail.com", "simsicon@gmail.com"]
   s.homepage    = ""
   s.summary     = %q{gem to send text messages with china telecom}
   s.description = %q{gem to integrate with sichuan china telecom}
